@@ -17,7 +17,7 @@ RNNs: Recurrent Neural Networks are used to capture temporal features in audio s
 <div align="center">
 
   <figure>
-    <img width="706" alt="Model Architecture" src="https://github.com/user-attachments/assets/979a9185-c1f7-4633-802d-878cf6bce9fa">
+    <img width="700" alt="Model Architecture" src="https://github.com/user-attachments/assets/979a9185-c1f7-4633-802d-878cf6bce9fa">
     <div align="center">
         <figcaption style="text-align: center;">Figure 1: Model Architecture</figcaption>
     </div>
@@ -32,7 +32,7 @@ Performance: The final model achieved accuracies of 77.80%, 61.81%, and 79.60% i
 <div align="center">
 
   <figure>
-    <img width="781" alt="Train vs Validation Accuracy" src="https://github.com/user-attachments/assets/53a37677-800d-42c6-9fe7-cf7ce8551801">
+    <img width="600" alt="Train vs Validation Accuracy" src="https://github.com/user-attachments/assets/53a37677-800d-42c6-9fe7-cf7ce8551801">
     <div align="center"
         <figcaption> Figure 2: Train vs Validation Accuracy </figcaption>
     </div>

@@ -18,7 +18,9 @@ RNNs: Recurrent Neural Networks are used to capture temporal features in audio s
 
   <figure>
     <img width="706" alt="Model Architecture" src="https://github.com/user-attachments/assets/979a9185-c1f7-4633-802d-878cf6bce9fa">
-    <figcaption style="text-align: center;">Figure 1: Model Architecture</figcaption>
+    <div align="center">
+        <figcaption style="text-align: center;">Figure 1: Model Architecture</figcaption>
+    </div>
   </figure>
   
 </div>

@@ -40,3 +40,9 @@ Performance: The final model achieved accuracies of 77.80%, 61.81%, and 79.60% i
   
 </div>
 
+## Acknowledgements
+- [GTZAN dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) from Kaggle.
+- Libraries used: 
+  - [librosa](https://librosa.org/): A Python package for music and audio analysis.
+  - [pydub](https://pydub.com/): A library for manipulating audio with a simple and easy-to-use interface.
+  - [TensorFlow](https://www.tensorflow.org/): An open-source platform for building and deploying machine learning models.

@@ -40,6 +40,13 @@ Performance: The final model achieved accuracies of 77.80%, 61.81%, and 79.60% i
   
 </div>
 
+## Demonstration
+<div align="center">
+  <a href="https://youtu.be/ofdyUeqrXY4">
+    <img src="https://img.youtube.com/vi/ofdyUeqrXY4/maxresdefault.jpg" alt="Watch the demonstration video" width="600" />
+  </a>
+</div>
+
 ## Acknowledgements
 - [GTZAN dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) from Kaggle.
 - Libraries used: 

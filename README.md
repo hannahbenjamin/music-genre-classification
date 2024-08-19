@@ -13,10 +13,27 @@ Libraries: librosa is used for primary audio loading, and pydub handles any load
 ### 2. Model Architecture:
 CNNs: Convolutional Neural Networks are employed to learn patterns from visual representations of music, such as spectrograms and tempograms. These networks process the data through convolution, ReLU, dropout, and pooling layers to abstract and reduce spatial variability.
 RNNs: Recurrent Neural Networks are used to capture temporal features in audio signals, focusing on musical dynamics and rhythmic characteristics over time.
-<img width="706" alt="Model Architecture" src="https://github.com/user-attachments/assets/979a9185-c1f7-4633-802d-878cf6bce9fa">
+
+<div align="center">
+
+  <figure>
+    <img width="706" alt="Model Architecture" src="https://github.com/user-attachments/assets/979a9185-c1f7-4633-802d-878cf6bce9fa">
+    <figcaption>Figure 1: Model Architecture</figcaption>
+  </figure>
+  
+</div>
 
 ### 3. Training and Evaluation:
 The model was trained, validated, and tested using the dataset. The training involved tuning various hyperparameters to achieve the best performance.
 Performance: The final model achieved accuracies of 77.80%, 61.81%, and 79.60% in training, validation, and testing datasets, respectively.
 <img width="781" alt="Train vs Validation Accuracy" src="https://github.com/user-attachments/assets/53a37677-800d-42c6-9fe7-cf7ce8551801">
+
+<div align="center">
+
+  <figure>
+    <img width="781" alt="Train vs Validation Accuracy" src="https://github.com/user-attachments/assets/53a37677-800d-42c6-9fe7-cf7ce8551801>
+    <figcaption>Figure 2: Train vs Validation Accuracy</figcaption>
+  </figure>
+  
+</div>
 

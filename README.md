@@ -27,7 +27,7 @@ RNNs: Recurrent Neural Networks are used to capture temporal features in audio s
 
 ### 3. Training and Evaluation:
 The model was trained, validated, and tested using the dataset. The training involved tuning various hyperparameters to achieve the best performance.
-Performance: The final model achieved accuracies of 77.80%, 61.81%, and **79.60%** in training, validation, and testing datasets, respectively.
+Performance: The final model achieved accuracies of 77.80%, 61.81%, and 79.60% in training, validation, and testing datasets, respectively.
 
 <div align="center">
 

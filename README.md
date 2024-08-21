@@ -41,6 +41,7 @@ Performance: The final model achieved accuracies of 77.80%, 61.81%, and 79.60% i
 </div>
 
 ## Demonstration
+This demonstration illustrates that the model correctly classifies the song "California Gurls" as a pop song.
 <div align="center">
   <a href="https://youtu.be/ofdyUeqrXY4">
     <img src="https://img.youtube.com/vi/ofdyUeqrXY4/maxresdefault.jpg" alt="Watch the demonstration video" width="600" />

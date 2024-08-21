@@ -1,6 +1,6 @@
 # Music Genre Classification Project
 
-Welcome to the Music Genre Classification Project! This repository contains the code and resources for a deep learning-based approach to classifying music genres. The project leverages the power of deep learning, convolutional neural networks (CNNs), and recurrent neural networks (RNNs) to automatically classify music genres from audio data, enhancing music discovery and analysis.
+Welcome to the Music Genre Classification Project! This repository contains the Python code and resources for a deep learning-based approach to classifying music genres. The project leverages the power of deep learning, convolutional neural networks (CNNs), and recurrent neural networks (RNNs) to automatically classify music genres from audio data, enhancing music discovery and analysis.
 
 ## Project Overview
 Music has played a crucial role in human culture and personal expression throughout history. Given its significance, this project aims to improve the experience of navigating vast digital music libraries and enhance music discovery through automated genre classification. The core objective is to develop a system that can accurately identify the genre of a given piece of music by analyzing its audio features.

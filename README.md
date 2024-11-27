@@ -54,4 +54,4 @@ This demonstration illustrates that the model correctly classifies the song "Cal
   - [librosa](https://librosa.org/): A Python package for music and audio analysis.
   - [pydub](https://pydub.com/): A library for manipulating audio with a simple and easy-to-use interface.
   - [TensorFlow](https://www.tensorflow.org/): An open-source platform for building and deploying machine learning models.
-  - [PyTorch](https://www.tensorflow.org/](https://pytorch.org/)): A framework for building deep learning models and is commonly used in applications like image recognition and language processing.
+  - [PyTorch](https://pytorch.org/): A framework for building deep learning models and is commonly used in applications like image recognition and language processing.
